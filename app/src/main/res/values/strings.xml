@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Firestore QR Scanner</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click To Register</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">enter password</string>
+    <string name="welcome">Welcome!!</string>
+    <string name="qr_scan_btn">Click Here To Scan</string>
+    <string name="the_scanned_text_will_appear_here">The Scanned Text will appear here</string>
+    <string name="click_here_to_save">Click Here To Save</string>
+</resources>
